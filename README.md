@@ -36,8 +36,7 @@ Dirancang untuk para pengembang, operator server, serta pengguna yang membutuhka
 Kami menyambut semua yang ingin ikut membangun IndoPrime OS —  
 baik dari sisi teknis, dokumentasi, maupun komunitas.
 
-📩 Email: `admin@iprime.id`  
-💬 Telegram: [@IndoPrimeTech](https://t.me/IndoPrimeTech)
+📩 Email: `indoprimecore@gmail.com`  
 
 ---
 
